@@ -1,0 +1,14 @@
+place_id,place_name,parish_or_county,state,country,lat,lon
+LA_ORLEANS_NO,New Orleans,Orleans Parish,LA,USA,29.9511,-90.0715
+LA_EBR_BTR,Baton Rouge,East Baton Rouge Parish,LA,USA,30.4515,-91.1871
+LA_LAFAYETTE,Lafayette,Lafayette Parish,LA,USA,30.2241,-92.0198
+LA_CALCASIEU,Lake Charles,Calcasieu Parish,LA,USA,30.2266,-93.2174
+LA_OUACHITA,Monroe,Ouachita Parish,LA,USA,32.5093,-92.1193
+LA_RAPIDES,Alexandria,Rapides Parish,LA,USA,31.3113,-92.4451
+LA_ST_TAMMANY,Covington,St. Tammany Parish,LA,USA,30.4755,-90.1009
+LA_TERREBONNE,Houma,Terrebonne Parish,LA,USA,29.5958,-90.7195
+MS_HARRISON,Gulfport,Harrison County,MS,USA,30.3674,-89.0928
+MS_HINDS,Jackson,Hinds County,MS,USA,32.2988,-90.1848
+TX_HARRIS,Houston,Harris County,TX,USA,29.7604,-95.3698
+TX_JEFFERSON,Beaumont,Jefferson County,TX,USA,30.0802,-94.1266
+AR_PULASKI,Little Rock,Pulaski County,AR,USA,34.7465,-92.2896

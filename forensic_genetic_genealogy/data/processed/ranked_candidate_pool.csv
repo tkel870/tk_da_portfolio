@@ -1,0 +1,5 @@
+cluster_id,avg_cm,tree_conf_avg,cluster_size,surname_signal,geo_signal,candidate_score
+0,64.51,0.514,72,321,253,129.76
+1,60.35,0.514,80,312,250,127.71
+2,68.49,0.506,54,211,171,99.48
+3,58.97,0.526,54,211,171,96.56

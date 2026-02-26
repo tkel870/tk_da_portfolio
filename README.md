@@ -1,8 +1,8 @@
 # TKEL Forge Analytics  
-### Data Analytics Portfolio | TKEL Enterprises, LLC
+### Data Analytics Portfolio | Tricia Bleavins
 
 ## Executive Overview
-TKEL Forge Analytics is the data analytics division of TKEL Enterprises, LLC, focused on transforming complex data into clear, actionable insight for decision-makers.
+TKEL Forge Analytics is my data analytics portfolio, focused on transforming complex data into clear, actionable insight for decision-makers.
 
 This portfolio showcases end-to-end analytics engagements designed using real-world business framing, executive-level reporting standards, and practical analytical rigor. Each analysis demonstrates the ability to move beyond raw numbers to identify risks, opportunities, and strategic recommendations.
 
